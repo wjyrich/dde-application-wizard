@@ -39,6 +39,7 @@ qt_add_dbus_adaptor(DBUS_ADAPTER_FILES dbus/org.deepin.dde.daemon.Launcher1.xml 
 set(TRANSLATION_FILES
     translations/dde-application-wizard.ts
     translations/dde-application-wizard_bo.ts
+    translations/dde-application-wizard_de.ts
     translations/dde-application-wizard_es.ts
     translations/dde-application-wizard_hu.ts
     translations/dde-application-wizard_it.ts
@@ -47,6 +48,8 @@ set(TRANSLATION_FILES
     translations/dde-application-wizard_pl.ts
     translations/dde-application-wizard_pt_BR.ts
     translations/dde-application-wizard_ru.ts
+    translations/dde-application-wizard_ta.ts
+    translations/dde-application-wizard_tr.ts
     translations/dde-application-wizard_uk.ts
     translations/dde-application-wizard_zh_CN.ts
     translations/dde-application-wizard_zh_TW.ts
