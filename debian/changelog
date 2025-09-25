@@ -1,3 +1,10 @@
+dde-application-wizard (0.1.21) unstable; urgency=medium
+
+  * fix: add translations
+  * i18n: Translations update from Hosted Weblate (#50)
+
+ -- wujiangyu <wujiangyu@uniontech.com>  Thu, 25 Sep 2025 17:40:47 +0800
+
 dde-application-wizard (0.1.20) unstable; urgency=medium
 
   * fix: prefix desktop filename with linyaps in uninstall cleanup
